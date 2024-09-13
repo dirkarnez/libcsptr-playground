@@ -1,8 +1,8 @@
 cmake_minimum_required(VERSION 3.18)
 
-project("portaudio-playground")
+project("libcsptr-playground" C)
 
-find_package(portaudio 19 EXACT REQUIRED) # PATHS "P:\\Downloads\\cpp-libraries\\portaudio\\build\\cmake\\portaudio")
+find_package(libcsptr) #  19 EXACT REQUIRED) # PATHS "P:\\Downloads\\cpp-libraries\\portaudio\\build\\cmake\\portaudio")
 
 if(portaudio_FOUND)
     message(STATUS "YES")
