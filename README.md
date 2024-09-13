@@ -2,6 +2,9 @@ libcsptr-playground
 ====================
 ### Notes
 - this is C language project
+### TODOs
+- [ ] baremetal?
+- [ ] debug mode with overridden `free()` in C
 
 ### Using
 - [dirkarnez/libcsptr-prebuilt](https://github.com/dirkarnez/libcsptr-prebuilt)
