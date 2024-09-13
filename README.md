@@ -1,5 +1,7 @@
 libcsptr-playground
 ====================
+### Notes
+- this is C language project
 
 ### Using
 - [dirkarnez/libcsptr-prebuilt](https://github.com/dirkarnez/libcsptr-prebuilt)
